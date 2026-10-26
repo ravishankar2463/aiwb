@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "shared-context",
+      "path": "./shared-context"
+    },
+    {
+      "name": "service-api",
+      "path": "C:\\dev\\product-suite\\service-api"
+    },
+    {
+      "name": "web-client",
+      "path": "C:\\dev\\product-suite\\web-client"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true
+    }
+  }
+}
